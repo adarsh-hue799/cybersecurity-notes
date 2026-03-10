@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>Readwrite files</string>
+  <key>nodeid</key><string>dc63d17a-77c9-4401-bd47-1a9c59b5c795</string>
+  <key>modified_time</key><integer>1710581327</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1710580199</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>6</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>star.png</string>
+</dict>
+</node>

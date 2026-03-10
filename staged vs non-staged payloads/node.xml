@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>Staged vs non-staged payloads</string>
+  <key>nodeid</key><string>ec24f2c1-7906-4d67-90e1-fd65ba8bc5e1</string>
+  <key>modified_time</key><integer>1713085314</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1713085276</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>27</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>star.png</string>
+</dict>
+</node>

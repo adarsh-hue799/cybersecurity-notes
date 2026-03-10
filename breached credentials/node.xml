@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>Breached Credentials</string>
+  <key>nodeid</key><string>40ab4b15-3dc6-425a-ab58-1b056d9c4294</string>
+  <key>modified_time</key><integer>1710854691</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1710854557</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>17</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>star.png</string>
+</dict>
+</node>

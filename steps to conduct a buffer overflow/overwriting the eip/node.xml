@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>Overwriting the EIP</string>
+  <key>nodeid</key><string>f4dae8cd-d39d-47b4-82a8-e23a4743ce12</string>
+  <key>modified_time</key><integer>1771334864</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1771074607</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>3</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>check.png</string>
+</dict>
+</node>
